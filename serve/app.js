@@ -20,6 +20,7 @@ app.use(function (req, res, next) {
 app.use('/pedidos', require('./routes/pedido'));
 app.use('/entregas', require('./routes/entrega'));
 app.use('/cotizacion', require('./routes/cotiza'));
+app.use('/inventariado', require('./routes/inventario'));
 
 
 app.listen(config.port,()=>{

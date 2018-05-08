@@ -13,5 +13,5 @@ function getDeliv(req, res) {
 }
 
 module.exports = {
-getDeliv
+  getDeliv
 };
