@@ -21,7 +21,7 @@ app.use('/pedidos', require('./routes/pedido'));
 app.use('/entregas', require('./routes/entrega'));
 app.use('/cotizacion', require('./routes/cotiza'));
 app.use('/inventariado', require('./routes/inventario'));
-
+app.use('/estadisticas', require('./routes/estadisticas'));
 
 app.listen(config.port,()=>{
   console.log("listen in port " + config.port);

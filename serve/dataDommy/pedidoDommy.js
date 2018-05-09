@@ -9,7 +9,7 @@ let pedidos = [
       'numero' : '38 int 1',
       'colonia' : 'valle de aragon',
       'token' : 'UvDnLpIo',
-      'date' : '20-05-2018',
+      'date' : '05-20-2018',
     },
     'observaciones' : '',
     'productos':{
@@ -34,7 +34,7 @@ let pedidos = [
       'numero' : '40 lt 5',
       'colonia' : 'chamizal',
       'token' : 'Oi4cG7ui',
-      'date' : '04-05-2018',
+      'date' : '05-04-2018',
     },
     'observaciones' : '',
     'productos':{
@@ -59,7 +59,7 @@ let pedidos = [
       'numero' : '40 lt 5',
       'colonia' : 'chamizal',
       'token' : 'oKl3fg4s',
-      'date' : '04-05-2018',
+      'date' : '05-04-2018',
     },
     'observaciones' : '',
     'productos':{
@@ -84,7 +84,7 @@ let pedidos = [
       'numero' : '34',
       'colonia' : 'bosques',
       'token' : 'otlufg6s',
-      'date' : '04-05-2018',
+      'date' : '05-04-2018',
     },
     'observaciones' : '',
     'productos':{
@@ -99,6 +99,106 @@ let pedidos = [
     },
     'total' : 5420,
     'estatus':'pendiente'
+  },
+  {
+    'datos': {
+      'cliente' : 'Yahir Oropeza',
+      'telefono' : '5521845584',
+      'email' : 'yahir.oropeza@gmail.com',
+      'calle' : 'salvin',
+      'numero' : '38 int 1',
+      'colonia' : 'valle de aragon',
+      'token' : 'UvDnLpIo',
+      'date' : '01-20-2018',
+    },
+    'observaciones' : '',
+    'productos':{
+      'brincolin':1,
+      'carpa': '0',
+      'meseros': 0,
+      'inflableChico' : 0,
+      'inflableGrande' : 0,
+      'cristal' : 2,
+      'redonda' : 4,
+      'tablon' : 5,
+    },
+    'total' : 1420,
+    'estatus':'entregado'
+  },
+  {
+    'datos': {
+      'cliente' : 'Yahir Oropeza',
+      'telefono' : '5521845584',
+      'email' : 'yahir.oropeza@gmail.com',
+      'calle' : 'salvin',
+      'numero' : '38 int 1',
+      'colonia' : 'valle de aragon',
+      'token' : 'UvDnLpIo',
+      'date' : '01-20-2018',
+    },
+    'observaciones' : '',
+    'productos':{
+      'brincolin':1,
+      'carpa': '0',
+      'meseros': 0,
+      'inflableChico' : 0,
+      'inflableGrande' : 0,
+      'cristal' : 2,
+      'redonda' : 4,
+      'tablon' : 5,
+    },
+    'total' : 1420,
+    'estatus':'entregado'
+  },
+  {
+    'datos': {
+      'cliente' : 'Yahir Oropeza',
+      'telefono' : '5521845584',
+      'email' : 'yahir.oropeza@gmail.com',
+      'calle' : 'salvin',
+      'numero' : '38 int 1',
+      'colonia' : 'valle de aragon',
+      'token' : 'UvDnLpIo',
+      'date' : '02-20-2018',
+    },
+    'observaciones' : '',
+    'productos':{
+      'brincolin':1,
+      'carpa': '0',
+      'meseros': 0,
+      'inflableChico' : 0,
+      'inflableGrande' : 0,
+      'cristal' : 2,
+      'redonda' : 4,
+      'tablon' : 5,
+    },
+    'total' : 1420,
+    'estatus':'entregado'
+  },
+  {
+    'datos': {
+      'cliente' : 'Yahir Oropeza',
+      'telefono' : '5521845584',
+      'email' : 'yahir.oropeza@gmail.com',
+      'calle' : 'salvin',
+      'numero' : '38 int 1',
+      'colonia' : 'valle de aragon',
+      'token' : 'UvDnLpIo',
+      'date' : '03-20-2018',
+    },
+    'observaciones' : '',
+    'productos':{
+      'brincolin':1,
+      'carpa': '0',
+      'meseros': 0,
+      'inflableChico' : 0,
+      'inflableGrande' : 0,
+      'cristal' : 2,
+      'redonda' : 4,
+      'tablon' : 5,
+    },
+    'total' : 1420,
+    'estatus':'entregado'
   },
 
 ]
