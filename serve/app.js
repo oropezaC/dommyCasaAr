@@ -17,8 +17,9 @@ app.use(function (req, res, next) {
 });
 
 app.use('/',function(req,res){
-  res.json({backend:"servicio arriba})
+  res.json({backend:"servicio arriba"})
 })
+  
 app.use('/pedidos', require('./routes/pedido'));
 app.use('/entregas', require('./routes/entrega'));
 app.use('/cotizacion', require('./routes/cotiza'));
